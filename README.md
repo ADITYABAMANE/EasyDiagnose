@@ -1,6 +1,6 @@
 # EasyDiagnose 
 
-** Deploy Link **: https://easydiagnose.streamlit.app/
+** Deploy Link ** : https://easydiagnose.streamlit.app/
 
 Easy Diagnose is a Streamlit application designed for multiple disease diagnosis, predicting whether a person has heart disease, diabetes, or Parkinson's disease. The app features three dedicated pages for each disease and uses respective datasets to make predictions.
 
