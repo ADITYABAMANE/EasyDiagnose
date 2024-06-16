@@ -1,4 +1,4 @@
-# EsyDiagnose 
+# EasyDiagnose 
 
 ** Deploy Link **: https://easydiagnose.streamlit.app/
 
