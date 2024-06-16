@@ -29,9 +29,9 @@ Easy Diagnose is a Streamlit application designed for multiple disease diagnosis
 •	Users can easily switch between pages to perform different disease diagnoses.
 
 # Technologies Used :
-•Library: Streamlit
+• Libraries: Streamlit, numpy, scikit-learn , streamlit-option-menu
 
-•	Programming Language: Python
+• Programming Language: Python
 
-•	Hosting: Streamlit Cloud
+• Hosting: Streamlit Cloud
 
